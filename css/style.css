@@ -6,7 +6,7 @@
 body {
   display: flex;
   flex-direction: column;
-  background-image: url(/img/cocteles-para-el-15-de-septiembre.webp);
+  background-image: url(../img/cocteles-para-el-15-de-septiembre.webp);
   background-size: cover;
   background-repeat: no-repeat;
   align-items: center;
